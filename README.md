@@ -9,9 +9,11 @@ simple docker-compose to create fresh WordPress environment
 
 Make sure you have the latest versions of **Docker** and **Docker Compose** installed on your machine.
 
-Clone repo or Copy the **docker-compose.yml** file from this repository into a blank folder.
+Clone the repo or Copy the **docker-compose.yml** file from this repository into a blank folder.
 
 In the file you may change the IP address (in case you run multiple containers) or the database.
+
+Here we use MariaDB and WordPress docker official image
 
 ##### Create containers
 
