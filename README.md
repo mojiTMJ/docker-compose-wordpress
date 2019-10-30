@@ -1,4 +1,6 @@
+
 # docker-Compose WordPress
+###### You have to check each line
 simple docker-compose to create fresh WordPress environment
 
 [Inspired by -> Docker Compose and WordPress](https://docs.docker.com/compose/wordpress/)
@@ -93,4 +95,4 @@ volumes:
 
 ### That's it Have Fun and don't Forgot to **STAR** this repo ;)
 
-# TMJ
+# MojiTMJ
