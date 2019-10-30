@@ -17,6 +17,8 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
-.git
+.moji
+.app
+.db
 db-data
 site-data
